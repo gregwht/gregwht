@@ -1,4 +1,4 @@
-### Hi! I’m Greg. 
+### Hi! I’m Greg
 
 I'm an audio professional currently based in London, U.K. 
 
