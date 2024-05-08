@@ -9,7 +9,9 @@ I love working across all aspects of sound, from the artistic to the technical. 
 * 🎤 As a sound designer I specialise in field recording and environmental sound design.
 * 🎶 And as a composer my passion is making generative and experimental music.
 
-Currently contributing to [SignalFlow](https://github.com/ideoforms/signalflow), a framework for real-time sound synthesis, processing, and DSP with Python.
+Currently contributing to:
+* [SignalFlow](https://github.com/ideoforms/signalflow) — a framework for real-time sound synthesis, processing, and DSP with Python
+* [isobar](https://github.com/ideoforms/isobar) — a Python library for creating and manipulating musical patterns, designed for use in algorithmic composition, generative music and sonification.
 <!--
 **gregwht/gregwht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
