@@ -7,7 +7,8 @@ I love working across all aspects of sound, from the artistic to the technical. 
 * 👨🏼‍💻 As an audio programmer I enjoy building creative tools for musical expression.
 * 🔊 As a technical audio designer I love crafting interactive and spatial audio experiences.
 * 🎤 As a sound designer I specialise in field recording and environmental sound design.
-* 🎶 And as a composer my passion is making generative and experimental music.
+* 🎶 As a composer my passion is making generative and experimental music.
+* 👨🏼‍🏫 And as an educator I strive to simplify complex topics and empower people to create.
 
 Currently contributing to:
 * [SignalFlow](https://github.com/ideoforms/signalflow) — a framework for real-time sound synthesis, processing, and DSP with Python
