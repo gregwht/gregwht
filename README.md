@@ -1,16 +1,12 @@
 ### Hi! I’m Greg
 
-I'm an audio professional currently based in London, U.K. 
+I'm an engineer and educator currently based in London, U.K. 
 
-I love working across all aspects of sound, from the artistic to the technical. I have worked on large-scale projects for clients including BBC Proms, London Borough of Culture, Hampton Court Palace, the Museum of the Future, and Opera North. For my full bio [click here](https://www.gregory-white.co.uk/bio.html).
+I currently work for RSPB, and before that Meta Reality Labs Research. Coming from a technical audio background, I have a unique fusion of skills relating to data, electronics, and audio. I'm keen to work with technologies that empower individuals and communities, and help solve our biggest problems. 
 
-* 👨🏼‍💻 As an audio programmer I enjoy building creative tools for musical expression.
-* 🔊 As a technical audio designer I love crafting interactive and spatial audio experiences.
-* 🎤 As a sound designer I specialise in field recording and environmental sound design.
-* 🎶 As a composer my passion is making generative and experimental music.
-* 👨🏼‍🏫 And as an educator I strive to simplify complex topics and empower people to create.
+Currently obsessed with / pursuing further training in: building data pipelines and products; machine learning; sensor fusion; bioacoustics; GIS and remote sensing (NASA ARSET program).
 
-Currently contributing to:
+Previously contributed to:
 * [SignalFlow](https://github.com/ideoforms/signalflow) — a framework for real-time sound synthesis, processing, and DSP with Python
 * [isobar](https://github.com/ideoforms/isobar) — a Python library for creating and manipulating musical patterns, designed for use in algorithmic composition, generative music and sonification.
 <!--
