@@ -6,9 +6,7 @@ I currently work for RSPB, and before that Meta Reality Labs Research. Coming fr
 
 Currently obsessed with / pursuing further training in: building data pipelines and products; machine learning; sensor fusion; bioacoustics; GIS and remote sensing (NASA ARSET program).
 
-Previously contributed to:
-* [SignalFlow](https://github.com/ideoforms/signalflow) — a framework for real-time sound synthesis, processing, and DSP with Python
-* [isobar](https://github.com/ideoforms/isobar) — a Python library for creating and manipulating musical patterns, designed for use in algorithmic composition, generative music and sonification.
+Previously contributed to [SignalFlow](https://github.com/ideoforms/signalflow) — a framework for real-time sound synthesis, processing, and DSP with Python
 <!--
 **gregwht/gregwht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
